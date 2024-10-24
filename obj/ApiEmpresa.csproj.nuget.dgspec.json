@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj": {}
+    "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj": {
+    "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj",
         "projectName": "ApiEmpresa",
-        "projectPath": "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj",
+        "projectPath": "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\BlazorApi\\ApiEmpresa.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\obj\\",
+        "outputPath": "C:\\Users\\julio\\Downloads\\BlazorApi\\BlazorApi\\BlazorApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
